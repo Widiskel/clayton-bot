@@ -66,12 +66,12 @@ https://t.me/claytoncoinbot/game?startapp=5703822759
    ```
 6. (If You Use Telegram Sessions) To configure the app, run 
    ```
-   nano src/config/config.js
+   nano config/config.js
    ```
    and add your telegram app id and hash there.
 7. (If You Use Proxy) To configure the Proxy, run 
    ```
-   nano src/config/proxy_list.js
+   nano config/proxy_list.js
    ``` 
    and add your proxy list there, it currently only support https proxy.
 8. to start the app run 
