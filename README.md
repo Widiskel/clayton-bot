@@ -63,7 +63,7 @@ https://t.me/claytoncoinbot/game?startapp=5703822759
 5. Run 
    ```
    cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp config/proxy_list.js
-   ```.
+   ```
 6. (If You Use Telegram Sessions) To configure the app, run 
    ```
    nano src/config/config.js
@@ -91,7 +91,7 @@ https://t.me/claytoncoinbot/game?startapp=5703822759
    ```
 3. Run 
    ```
-   npm instal
+   npm install
    ```
 4. Run 
    ```
