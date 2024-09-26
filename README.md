@@ -113,7 +113,7 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
    ```
 5. Run 
    ```
-   cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp config/proxy_list.js
+   cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp.js config/proxy_list.js
    ```
 6. (If You Use Telegram Sessions) To configure the app, run 
    ```
