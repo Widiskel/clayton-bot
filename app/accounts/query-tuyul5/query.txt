@@ -1,1 +1,0 @@
-user=%7B%22id%22%3A6509592308%2C%22first_name%22%3A%22W%22%2C%22last_name%22%3A%22Skel%22%2C%22username%22%3A%22widiskel%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-7611482765301798762&chat_type=channel&auth_date=1731172421&hash=793e9bd1843e8ae99c5c0973c1eee80126b34a13bd3846e84c3e5e2694a061f4
